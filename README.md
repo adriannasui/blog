@@ -9,10 +9,10 @@ Readers can come up with corrections and updates, and simply create a pull reque
 Think about a real world use-case: you *google* how to solve a problem in excel, and the search result returns a multitude of solutions, but most of them are outdated and only work for older versions of excel, The internet is full of *stale*, *outdated* writings. Willing readers can become valued contributors by simply submitting a Pull Request. Coupled with a clear history of all the changes
 1. **Markdown is a powerful, somewhat underrated format**  
 [Markdown](https://en.wikipedia.org/wiki/Markdown) is:
-  - lightweight
-  - universal(ish)
-  - readable
-  - portable
+      - lightweight
+      - universal(ish)
+      - readable
+      - portable
 1. **Git usage is becoming more broad**
 Expect to see more and more stuff being shared by the means of the *git* protocol. 
 While developers have been sharing code for a long time now, there are still users that have not yet embraced *git*. 
