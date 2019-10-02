@@ -10,8 +10,11 @@ Think about a real world use-case: you *google* how to solve a problem in excel,
 1. **Markdown is a powerful, somewhat underrated format**  
 [Markdown] is:
 --- lightweight
+
 --- universal(ish)
+
 --- readable
+
 --- portable
 1. **Git usage is becoming more broad**
 Expect to see more and more stuff being shared by the means of the *git* protocol. 
@@ -24,4 +27,4 @@ Yes, those who know me know that I like geeky, techy, quirky stuff.
 I tried writing my blog on medium, and linked-in, but the overall experience left something to be desired. Don't get me wrong, they are great platforms. But github is simply the place where I feel at home.
 
 [This is where I place the links]:
-[markdown]:https://en.wikipedia.org/wiki/Markdown
+[Markdown]:https://en.wikipedia.org/wiki/Markdown
