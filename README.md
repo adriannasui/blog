@@ -3,7 +3,8 @@
 ![Oops...messed up some refs...a header image should be here](/resources/header.jpeg?raw=true "Welcome here!")
 
 
-Git was not designed for blogs, it was created for coordinating code changes between multiple developers. So why write a blog on github?
+Git was not designed for blogs, it was created for coordinating code changes between multiple developers.  
+## So why write a blog on github?
 
 The short answer is that I find the potential of github for blogs to be underestimated. And even greater so when the blog is technical in nature. 
 I will express my arguments for why I think this is a good idea below.
