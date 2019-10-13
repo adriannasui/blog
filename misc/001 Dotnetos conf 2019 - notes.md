@@ -33,20 +33,20 @@ PerfView: flamegraph, other
 Dotnet trace with speedscope for view  
 
 ---
-Intrisics net 3.0
-Quicksort with intrinsics
+Intrisics net 3.0  
+Quicksort with intrinsics  
 [https://devblogs.microsoft.com/dotnet/using-net-hardware-intrinsics-api-to-accelerate-machine-learning-scenarios/](https://devblogs.microsoft.com/dotnet/using-net-hardware-intrinsics-api-to-accelerate-machine-learning-scenarios/)
 
 ---
-EF core
-Visitor pattern c#
-Explicit compiled queries
+EF core   
+Visitor pattern c#  
+Explicit compiled queries  
 
 ---
-andrey akinshin
-Shift function for comparing performance degradation
-Benchmark dotnet can be integrated in tests
-Benchmarkdotnet exports R code, you can do plots from that
+andrey akinshin   
+Shift function for comparing performance degradation    
+Benchmark dotnet can be integrated in tests   
+Benchmarkdotnet exports R code, you can do plots from that   
 
 Day2
 ----
