@@ -1,6 +1,6 @@
 # Dotnetos conf 2019 was a cool learning experience  
 
-![Oops...messed up some refs...a header image should be here](/resources/001_dotnetos_logo.png?raw=true "Welcome here!")  
+![Oops...messed up some refs...a header image should be here](https://github.com/adriannasui/blog/blob/master/misc/resources/001_dotnetos_logo.png?raw=true "Dotnetos logo")  
 
 The speakers were all very good, deeply technical but also had fun presentations. 
 We learned a lot about performance profiling, common pitfalls, memory profiling, tips, tricks, and programming in C# for maximum efficiency. I made a short list of concepts, a summary, if you will, and it is listed below
