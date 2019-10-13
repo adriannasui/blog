@@ -1,4 +1,4 @@
-# Dotnetos conf 2019 was a cool learning experience  
+# [Dotnetos conf](https://conf.dotnetos.org/) 2019 was a cool learning experience  
 
 ![Oops...messed up some refs...a header image should be here](https://github.com/adriannasui/blog/blob/master/misc/resources/001_dotnetos_logo.png?raw=true "Dotnetos logo")  
 
