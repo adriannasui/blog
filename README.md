@@ -1,3 +1,5 @@
+![Oops...messed up some refs...a header image should be here](/resources/header.jpeg?raw=true "Welcome here!")
+
 # My technical blog on github
 
 Git was not designed for blogs, it was created for coordinating code changes between multiple developers. So why write a blog on github?
